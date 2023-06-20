@@ -25,4 +25,6 @@
 }
 ```
 
+Note that the website ui will currently (incorrectly) tell you that there's a link in your inbox when you attempt to sign up.
+
 <img width="966" alt="Screenshot 2023-06-20 at 2 42 31 PM" src="https://github.com/JuniLearning/aceit-clerk-repro/assets/2024396/b776a9b1-4415-4628-9608-2e3851f51f99">
