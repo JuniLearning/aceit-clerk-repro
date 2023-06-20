@@ -60,7 +60,7 @@ const signUpRouter = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <ClerkProvider publishableKey={import.meta.env.VITE_CLERK_PUBLISHABLE_KEY}>
+    <ClerkProvider publishableKey="pk_test_aGFybWxlc3MtbWFncGllLTkyLmNsZXJrLmFjY291bnRzLmRldiQ">
       <SignedOut>
         <RouterProvider router={signUpRouter} />
       </SignedOut>
