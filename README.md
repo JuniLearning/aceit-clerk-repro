@@ -24,3 +24,5 @@
   }
 }
 ```
+
+<img width="966" alt="Screenshot 2023-06-20 at 2 42 31 PM" src="https://github.com/JuniLearning/aceit-clerk-repro/assets/2024396/b776a9b1-4415-4628-9608-2e3851f51f99">
